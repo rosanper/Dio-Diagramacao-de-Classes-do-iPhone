@@ -35,8 +35,4 @@ Porém, como o objetivo desse desafio é voltado mais para a análise do problem
 
 ## Diagrama UML
 
-- Diagrama 1
-![Diagrama1](https://drive.google.com/file/d/1WsBBmSXD_AGixb27F88WzgKSJpLaSWtJ/view?usp=drive_link)
-
-- Diagrama 2
-![Diagrama2](https://drive.google.com/file/d/1AaXUZwOMjVVaXuAMANgWA7-hPC7CjxG6/view?usp=sharing)
+Os diagramas podem ser vistos na pasta "diagramas-UML"
