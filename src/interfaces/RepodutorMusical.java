@@ -1,6 +1,6 @@
 package interfaces;
 
-public interface RepodutorMusicial {
+public interface RepodutorMusical {
     void tocar();
     void pausar();
     void selecionarMusica();

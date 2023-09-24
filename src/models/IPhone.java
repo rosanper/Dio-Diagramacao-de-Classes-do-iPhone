@@ -2,9 +2,9 @@ package models;
 
 import interfaces.AparelhoTelefonico;
 import interfaces.NavegadorNaInternet;
-import interfaces.RepodutorMusicial;
+import interfaces.RepodutorMusical;
 
-public class IPhone implements AparelhoTelefonico, NavegadorNaInternet, RepodutorMusicial {
+public class IPhone implements AparelhoTelefonico, NavegadorNaInternet, RepodutorMusical {
 
     private String sistemaOperacional;
     private double memoria;
